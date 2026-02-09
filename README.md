@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# El Attiq Mohammed — Backend / Full-Stack Developer
+
+Location: Morocco  
+
+---
+
+## Skills
+- C, C++, JavaScript  
+- Node.js, NestJS, PostgreSQL, Docker, Linux  
+- Performance, Security, DevOps
+
+## Projects
+- [ft_transcendence](https://github.com/simbaattiq/Ft_trenscendence) — Backend API development, JWT, Docker
+- Cub3d — Parsing & validation, security  
+- Minishell — Shell implementation, error handling  
+
