@@ -36,4 +36,4 @@ Location: Morocco
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
-[Download Resume (PDF)](resume_mel-atti.pdf)
+[Download Resume (PDF)](https://github.com/simbaattiq/resume/blob/main/resume_mel-atti.pdf)
