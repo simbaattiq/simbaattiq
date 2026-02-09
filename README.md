@@ -28,6 +28,7 @@ Location: Morocco
 
 ## Projects
 - [ft_transcendence](https://github.com/simbaattiq/Ft_trenscendence) — Backend API development, JWT, Docker
-- Cub3d — Parsing & validation, security  
-- Minishell — Shell implementation, error handling  
+- [Cub3d](https://github.com/simbaattiq/lo3ba_mel3oba) — Parsing & validation, security  
+- [Minishell](https://github.com/simbaattiq/Minishell) — Shell implementation, error handling
+- [Webserv](https://github.com/simbaattiq/Webserv) — Non-Blocking server in c++, HTTP Req / Res
 
