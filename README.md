@@ -32,3 +32,6 @@ Location: Morocco
 - [Minishell](https://github.com/simbaattiq/Minishell) — Shell implementation, error handling
 - [Webserv](https://github.com/simbaattiq/Webserv) — Non-Blocking server in c++, HTTP Req / Res
 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
