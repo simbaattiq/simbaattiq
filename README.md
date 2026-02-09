@@ -1,4 +1,4 @@
-## Hi there 👋
+## El Attiq Mohammed 
 
 <!--
 **simbaattiq/simbaattiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# El Attiq Mohammed — Backend / Full-Stack Developer
+# Backend / Full-Stack Developer
 
 Location: Morocco  
 
